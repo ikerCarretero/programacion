@@ -15,7 +15,7 @@ public class Prova {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        d
+        System.err.println("s");
     }
     
 }
