@@ -1,16 +1,20 @@
 -- Activitats de consultes agrupades.
 -- Emprant la BD ‘ucm’, escriu les consultes:
+use ucm;
 -- 1. Les funcions de grup treballen amb molts registres per produir un únic 
 -- resultat (cert / fals).
-
+	
+    -- Cert
 
 -- 2. Les funcions de grup inclouen els valors nuls en els seus càlculs. (cert /
 -- fals).
 
+	-- Fals
 
 -- 3. La clàusula WHERE elimina registres abans de la inclusió en un càlcul de 
 -- grup. (cert / fals).
 
+	-- Cert
 
 -- 4. Fes una consulta que calculi:
 --     • El nombre de pel·lícules.
@@ -19,9 +23,15 @@
 --     • La recaudació mínima.
 --     • La recaudació màxima.
 
+select count(*) as "Num empleats", sum(recaudacio), avg(recaudacio), min(recaudacio), max(recaudacio)
+from pelicules;
 
 -- 5. Llista agrupant pel nom dels directors i quantes pel·lícules ha dirigit. 
 -- Ordena el resultat de forma descendent pel nombre de pel·lícules dirigides.
+
+
+
+select * from pelicules;
 
 
 -- 6. Llista agrupant pel títol de les pel·lícules i quantes visualitzacions ha 
