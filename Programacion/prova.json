@@ -1,4 +1,0 @@
-function saludar() {
-    const nom = document.getElementById('nom').value;
-    document.getElementById('missatge').innerText = `Hola, ${nom}`;
-}
