@@ -28,10 +28,13 @@ from pelicules;
 
 -- 5. Llista agrupant pel nom dels directors i quantes pel·lícules ha dirigit. 
 -- Ordena el resultat de forma descendent pel nombre de pel·lícules dirigides.
+select d.nom, p.nom from directors d
+inner join p pelicules on p.codi = d.codi
+where ;
 
 
-
-select * from pelicules;
+select * from directors;
+show tables;
 
 
 -- 6. Llista agrupant pel títol de les pel·lícules i quantes visualitzacions ha 
