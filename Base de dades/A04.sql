@@ -28,22 +28,25 @@ from pelicules;
 
 -- 5. Llista agrupant pel nom dels directors i quantes pel·lícules ha dirigit. 
 -- Ordena el resultat de forma descendent pel nombre de pel·lícules dirigides.
-select d.nom, p.nom from directors d
-inner join p pelicules on p.codi = d.codi
-where ;
+select d.nom, count(*) from directors d
+inner join pelicules p on d.codi = p.id_director
+group by d.nom;
 
-
-select * from directors;
+select * from pelicules;
 show tables;
 
 
 -- 6. Llista agrupant pel títol de les pel·lícules i quantes visualitzacions ha 
 -- tingut. Ordena el resultat de forma descendent pel nombre de visualitzacions.
+select p.titol, count(v.visualitzacions) from pelicules p
+inner join visualitzacions v on p.codi = v.id_peli
+group by p.titol;
 
+select * from visualitzacions ;
 
 -- 7. Llista la diferència entre la recaudació màxima i la mínima de les 
 -- pel·lícules de ‘Marvel Enterprises’.
-
+select 
 
 -- 8. Llista de cada productora quantes pel·lícules hi ha a la BD. Etiqueta les 
 -- columnes i ordena el resultat de forma descendent pel nombre de pel·lícules.

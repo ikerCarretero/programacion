@@ -1,0 +1,503 @@
+<response>
+	<row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106001" _id="106001" _position="106001" _uuid="FFED6194-5AA5-4E70-93B5-7EF5847A3304">
+			<vehicle_type>1995</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/93616" _id="93616" _position="93616" _uuid="E9FB6A71-2BEE-4157-9846-D9829115C3C2">
+			<brand>ISUZU</brand>
+			<vehicle_type>3</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105999" _id="105999" _position="105999" _uuid="FFC52F72-101A-421E-8480-8B9B79D86EF0">
+			<brand>LAND ROVER</brand>
+			<vehicle_type>203</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/91862" _id="91862" _position="91862" _uuid="E4943BD2-4524-4900-B550-09F3AF1EC7B6">
+			<brand>DAIMLER CHRYSLER</brand>
+			<vehicle_type>4</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76503" _id="76503" _position="76503" _uuid="4B41FE6C-3074-4F7E-8A8C-64D4053B53F8">
+			<brand>TRAILOR</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/70904" _id="70904" _position="70904" _uuid="D9B3524D-BB41-485D-8889-7926F819C43B">
+			<brand>PEGASO</brand>
+			<vehicle_type>10</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105826" _id="105826" _position="105826" _uuid="FECB2AD6-F2A6-46E0-80E1-EE7FF5B3158B">
+			<brand>ROVER</brand>
+			<vehicle_type>68</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105861" _id="105861" _position="105861" _uuid="FEE5382F-6474-473B-A58B-D845934A02CA">
+			<brand>SAAB</brand>
+			<vehicle_type>93</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77252" _id="77252" _position="77252" _uuid="F47F9F26-D99B-4E3F-B839-CC536162AC9B">
+			<brand>DAF</brand>
+			<vehicle_type>46</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74436" _id="74436" _position="74436" _uuid="D804D277-701C-4913-9063-19A0FAB643BB">
+			<brand>PUCH</brand>
+			<vehicle_type>4</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103584" _id="103584" _position="103584" _uuid="FFC75A3C-785A-43E4-9915-C7C3531DED7D">
+			<brand>CHEVROLET</brand>
+			<vehicle_type>235</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/97757" _id="97757" _position="97757" _uuid="D409B3C2-9BD0-43FA-ADBF-C9191447EA7C">
+			<brand>INFINITI</brand>
+			<vehicle_type>8</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106006" _id="106006" _position="106006" _uuid="FFF2971B-C814-45E2-A76B-18224F3BE78F">
+			<brand>SEAT</brand>
+			<vehicle_type>2720</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76589" _id="76589" _position="76589" _uuid="D303191D-68DD-4244-BF1D-70F04A32E102">
+			<brand>KNAUS</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103301" _id="103301" _position="103301" _uuid="FEB3A20F-FC02-4B1D-A6AA-0AA2ADE69A9C">
+			<brand>DACIA</brand>
+			<vehicle_type>244</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105982" _id="105982" _position="105982" _uuid="FFCFAF71-8EEA-438A-A3B5-5694ACEC7182">
+			<brand>CITROEN</brand>
+			<vehicle_type>2890</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/67704" _id="67704" _position="67704" _uuid="B61F8187-B25B-4074-B1ED-E4CBD0BEA9D2">
+			<brand>ELNAGH</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/104445" _id="104445" _position="104445" _uuid="AC57E076-ED21-414A-9FA6-A31E5B9EB993">
+			<brand>BERTONE</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105972" _id="105972" _position="105972" _uuid="FFF0618A-B916-4EDC-969B-F8707BBC3D6C">
+			<brand>AUDI</brand>
+			<vehicle_type>1310</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/99926" _id="99926" _position="99926" _uuid="EFA3D403-CBD5-4141-B94E-8A9BE583D049">
+			<brand>G.M.C.</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105969" _id="105969" _position="105969" _uuid="FFCD9E1A-B1E6-4DEA-AAC7-12BDCE8A0B58">
+			<brand>MERCEDES</brand>
+			<vehicle_type>1467</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/72435" _id="72435" _position="72435" _uuid="C911BD68-3C9A-42D7-A0AC-19D9D1888481">
+			<brand>AIXAM</brand>
+			<vehicle_type>20</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75246" _id="75246" _position="75246" _uuid="D3892ED8-ED70-451A-BAA8-4EC982D6B3F5">
+			<brand>CAGIVA</brand>
+			<vehicle_type>6</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75286" _id="75286" _position="75286" _uuid="FD1ECF31-E828-48B5-9BD2-9B678BFB8AB3">
+			<brand>MONTESA</brand>
+			<vehicle_type>38</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/69912" _id="69912" _position="69912" _uuid="9CA27AE8-1F64-4394-80D8-F62EFD41E50A">
+			<brand>MOBILVETTA</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105978" _id="105978" _position="105978" _uuid="FC195356-99ED-4D31-9CE9-18AC19559E9F">
+			<brand>MORRIS</brand>
+			<vehicle_type>39</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/72810" _id="72810" _position="72810" _uuid="845B1B21-6497-4604-BAAB-5DDBFB5ECAA6">
+			<brand>GUZZI</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/96280" _id="96280" _position="96280" _uuid="57FC40E2-33CB-4E1C-92B3-B54651F8C40B">
+			<brand>G.M.E.</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/101267" _id="101267" _position="101267" _uuid="F2EAFB08-990B-4010-9DCB-46A5AF1D7D4E">
+			<brand>PONTIAC</brand>
+			<vehicle_type>4</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76422" _id="76422" _position="76422" _uuid="FD9FFA8F-80D3-4288-92CF-E956087A65E1">
+			<brand>MONTENEGRO</brand>
+			<vehicle_type>8</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105983" _id="105983" _position="105983" _uuid="FFA47CEA-F61D-4E15-A523-F4444B35BD78">
+			<brand>MITSUBISHI</brand>
+			<vehicle_type>329</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77228" _id="77228" _position="77228" _uuid="FFD60AFB-516F-438C-A557-1A27BC9913F9">
+			<brand>YAMAHA</brand>
+			<vehicle_type>816</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76022" _id="76022" _position="76022" _uuid="FDE10ACA-11B2-43FC-AA4D-1828DA97B90E">
+			<brand>VESPA</brand>
+			<vehicle_type>64</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76505" _id="76505" _position="76505" _uuid="FBA371C9-995B-42DE-80AB-47D8CFEFA0A9">
+			<brand>LECITRAILER</brand>
+			<vehicle_type>30</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77143" _id="77143" _position="77143" _uuid="67DE127C-6F8A-4C9E-89D9-2719CA50DD7D">
+			<brand>AEON</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76119" _id="76119" _position="76119" _uuid="77C22CC3-AA9F-46B6-ABF0-9652844598CB">
+			<brand>CONCEPT</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105934" _id="105934" _position="105934" _uuid="FFFCEFFE-AD59-4B2F-8970-26F6A3497233">
+			<brand>BMW</brand>
+			<vehicle_type>1346</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/83371" _id="83371" _position="83371" _uuid="5DF00AD6-EE2F-4409-991C-5976BD8C7D45">
+			<brand>MASERATI</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77235" _id="77235" _position="77235" _uuid="A689DC2D-5649-4012-ABDF-95179EF3A90E">
+			<brand>BOBCAT</brand>
+			<vehicle_type>6</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77232" _id="77232" _position="77232" _uuid="FFA7B1AA-BEA8-42F5-898A-70422DD1942C">
+			<brand>SCANIA</brand>
+			<vehicle_type>54</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103548" _id="103548" _position="103548" _uuid="FF8FA43F-7B87-4843-9E0D-BCCED3BEE519">
+			<brand>LEXUS</brand>
+			<vehicle_type>73</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75406" _id="75406" _position="75406" _uuid="FD5BC856-C002-4A3D-B37E-9ABCBD7072BE">
+			<brand>DUCATI</brand>
+			<vehicle_type>46</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105866" _id="105866" _position="105866" _uuid="FFA6D023-2E8F-4BAB-B534-5DB500768542">
+			<brand>ALFA ROMEO</brand>
+			<vehicle_type>163</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/71154" _id="71154" _position="71154" _uuid="143E53CB-EEE0-4034-AF80-9E0D6EB21880">
+			<brand>FEILING</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105872" _id="105872" _position="105872" _uuid="FFF00183-C22C-43A0-8D1A-973C17FED726">
+			<brand>SUZUKI</brand>
+			<vehicle_type>658</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106000" _id="106000" _position="106000" _uuid="FFFE5E34-C73E-4C15-9286-C603E2B2A999">
+			<brand>VOLKSWAGEN</brand>
+			<vehicle_type>2702</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74797" _id="74797" _position="74797" _uuid="FAD92439-AE00-4464-8CA0-DA0A856E67A6">
+			<brand>TRIUMPH</brand>
+			<vehicle_type>10</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75026" _id="75026" _position="75026" _uuid="585B8650-2F81-404F-AB0B-B2F0D87E6370">
+			<brand>REWACO</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105957" _id="105957" _position="105957" _uuid="FFF9BA65-BCDE-420F-A063-CB5D6E05AB15">
+			<brand>DAEWOO</brand>
+			<vehicle_type>131</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105599" _id="105599" _position="105599" _uuid="FF991375-5D44-4F86-A0A2-EF6E133150DB">
+			<brand>TOYOTA</brand>
+			<vehicle_type>1141</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/72226" _id="72226" _position="72226" _uuid="F796A56B-BF74-4477-8812-39B13821F6A3">
+			<brand>LIGIER</brand>
+			<vehicle_type>8</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76345" _id="76345" _position="76345" _uuid="0B0BD33F-01BF-4F83-A780-9BF2D7D3A201">
+			<brand>SPITZER</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77204" _id="77204" _position="77204" _uuid="FCFAFFCC-5FE9-4D94-9630-77DD07CB8AA9">
+			<brand>MAN</brand>
+			<vehicle_type>58</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103107" _id="103107" _position="103107" _uuid="FBA8BF96-BEC5-42E9-9EBB-A3486977A452">
+			<brand>SMART</brand>
+			<vehicle_type>53</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/86493" _id="86493" _position="86493" _uuid="FD86D8C9-3C8B-4982-B971-2DF494812AEC">
+			<brand>AUSTIN</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77024" _id="77024" _position="77024" _uuid="FD384B87-EA18-441B-B4D5-37DDA9E0FE6D">
+			<brand>KYMCO</brand>
+			<vehicle_type>140</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75420" _id="75420" _position="75420" _uuid="AFD86EE4-3E23-4F68-85E5-AF9B622983B4">
+			<brand>MORINI</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/92566" _id="92566" _position="92566" _uuid="ED46ADCD-8A16-4D21-8AFE-884354BB2E30">
+			<brand>CADILLAC</brand>
+			<vehicle_type>5</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/72418" _id="72418" _position="72418" _uuid="E528BCC3-6542-426E-B58B-8E04D7FA8DAB">
+			<brand>VESPINO</brand>
+			<vehicle_type>15</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75486" _id="75486" _position="75486" _uuid="F8EBB1F9-D3FC-4CEB-8391-195C2A372D0B">
+			<brand>GILERA</brand>
+			<vehicle_type>12</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76998" _id="76998" _position="76998" _uuid="D6BA76F8-27AA-459F-8872-646F5B071AB3">
+			<brand>MASSEY-FERGUSON</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105932" _id="105932" _position="105932" _uuid="E599E506-8B35-48AA-956D-E527DFB4B42A">
+			<brand>LADA</brand>
+			<vehicle_type>15</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105977" _id="105977" _position="105977" _uuid="FFE23329-1048-48E3-858C-8F4D8ADE3F48">
+			<brand>NISSAN</brand>
+			<vehicle_type>1447</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/71156" _id="71156" _position="71156" _uuid="C4C214A2-78BB-4D7A-9C77-A60EB5A6F5A4">
+			<brand>MICROCAR</brand>
+			<vehicle_type>5</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105179" _id="105179" _position="105179" _uuid="FDB83623-13D7-43DD-B1BD-1D43C69CF9D3">
+			<brand>PORSCHE</brand>
+			<vehicle_type>80</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/104637" _id="104637" _position="104637" _uuid="F2DC338A-8D42-466E-99A0-A83743D36DB7">
+			<brand>JAGUAR</brand>
+			<vehicle_type>43</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105940" _id="105940" _position="105940" _uuid="FF49FE62-3E5D-42C4-9D07-47B3026EF48E">
+			<brand>SKODA</brand>
+			<vehicle_type>326</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76579" _id="76579" _position="76579" _uuid="F088EE2A-658F-45BA-9770-7C8B5EE2DED6">
+			<brand>BURSTNER</brand>
+			<vehicle_type>29</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76946" _id="76946" _position="76946" _uuid="F952F494-76AE-4690-8F74-A89B88130AFF">
+			<brand>GAS-GAS</brand>
+			<vehicle_type>44</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106005" _id="106005" _position="106005" _uuid="FFFF0CF1-511A-4B69-B037-6772BAB392E1">
+			<brand>OPEL</brand>
+			<vehicle_type>2568</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74889" _id="74889" _position="74889" _uuid="FCC9B65D-1B58-47D3-BBAA-B1879B8C056E">
+			<brand>HYOSUNG</brand>
+			<vehicle_type>13</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76535" _id="76535" _position="76535" _uuid="FC47329E-270B-4F22-B3DC-4B76D360E7D5">
+			<brand>ROLLER</brand>
+			<vehicle_type>51</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74402" _id="74402" _position="74402" _uuid="EE8EE1A2-102E-4247-8AE9-D48A5132A097">
+			<brand>BETA</brand>
+			<vehicle_type>5</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76521" _id="76521" _position="76521" _uuid="EB082666-7572-42A8-B286-47F4143A07B8">
+			<brand>LECIÑENA</brand>
+			<vehicle_type>13</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77217" _id="77217" _position="77217" _uuid="B44D3E26-0197-4A64-8BA0-6AB50AE7923D">
+			<brand>LIEBHERR</brand>
+			<vehicle_type>9</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105992" _id="105992" _position="105992" _uuid="FC5A531A-806A-42EA-97C6-F75A4FF2C0DD">
+			<brand>LANCIA</brand>
+			<vehicle_type>52</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/102709" _id="102709" _position="102709" _uuid="EE03774F-F703-4F95-944F-DDBA9500C67F">
+			<brand>DODGE</brand>
+			<vehicle_type>11</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76388" _id="76388" _position="76388" _uuid="0F3F44C2-AEA2-4774-9EC6-7D1275EDB37B">
+			<brand>HYMER</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77230" _id="77230" _position="77230" _uuid="F5D50E78-427C-4EFF-9C10-96629AC91C21">
+			<brand>POLARIS</brand>
+			<vehicle_type>27</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74880" _id="74880" _position="74880" _uuid="FD056205-B730-4287-A368-B43D7E316BC1">
+			<brand>KTM</brand>
+			<vehicle_type>38</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105802" _id="105802" _position="105802" _uuid="FF55BD18-F52E-4541-BC60-E01A96FCA1BD">
+			<brand>-</brand>
+			<vehicle_type>164</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105185" _id="105185" _position="105185" _uuid="EC96EB86-79FC-42BA-8B41-CCBF31C67087">
+			<brand>TATA</brand>
+			<vehicle_type>16</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103361" _id="103361" _position="103361" _uuid="F866D18E-8CA1-42BC-BE45-ECB5A3CBCC32">
+			<brand>SUBARU</brand>
+			<vehicle_type>56</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74074" _id="74074" _position="74074" _uuid="E424055D-4528-4D67-A1DF-36E0B50EA942">
+			<brand>HARLEY DAVIDSON</brand>
+			<vehicle_type>3</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76940" _id="76940" _position="76940" _uuid="F02CAC57-40D6-4668-945F-971364C76ACE">
+			<brand>EBRO</brand>
+			<vehicle_type>4</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75366" _id="75366" _position="75366" _uuid="FF2F9479-74F6-410A-B333-91D57C602F11">
+			<brand>SYM</brand>
+			<vehicle_type>36</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75965" _id="75965" _position="75965" _uuid="FF26E291-E33E-42C3-B3CF-0F525D567CB0">
+			<brand>PIAGGIO</brand>
+			<vehicle_type>248</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105140" _id="105140" _position="105140" _uuid="FC20E23E-4CDB-4F6F-9F63-995AD5BB9747">
+			<brand>JEEP</brand>
+			<vehicle_type>133</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105673" _id="105673" _position="105673" _uuid="F7493319-B986-431B-9B2E-D1A8B82DC3C9">
+			<brand>TALBOT</brand>
+			<vehicle_type>12</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74938" _id="74938" _position="74938" _uuid="F956A5D8-6E73-4A7E-89E0-98048C504D19">
+			<brand>RIEJU</brand>
+			<vehicle_type>32</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/72724" _id="72724" _position="72724" _uuid="F6403FB3-B538-40B5-831C-E5D3489BB72F">
+			<brand>QUANTIA</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105758" _id="105758" _position="105758" _uuid="EBAB8376-1BAC-47C1-9431-D6A1A601B7A0">
+			<brand>M.G.</brand>
+			<vehicle_type>23</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105860" _id="105860" _position="105860" _uuid="FFFC4359-9D73-4BCA-A936-C35006D5DAE6">
+			<brand>HONDA</brand>
+			<vehicle_type>1339</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105908" _id="105908" _position="105908" _uuid="FCCC3708-BDE8-4B34-A385-50509A504E70">
+			<brand>CRYSLER</brand>
+			<vehicle_type>117</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/74813" _id="74813" _position="74813" _uuid="F396D5F8-5122-4319-8C29-6D4DDFFCCF9D">
+			<brand>BENELLI</brand>
+			<vehicle_type>8</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103177" _id="103177" _position="103177" _uuid="FC880D8C-7C62-440B-B073-FD81675A55A6">
+			<brand>MINI</brand>
+			<vehicle_type>228</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77226" _id="77226" _position="77226" _uuid="FF605C83-9523-4EF7-BDA3-9E8775268F37">
+			<brand>DERBI</brand>
+			<vehicle_type>494</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76496" _id="76496" _position="76496" _uuid="FF49BB85-CD42-4F30-8E3F-D44FA3F3541D">
+			<brand>FENDT</brand>
+			<vehicle_type>7</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76034" _id="76034" _position="76034" _uuid="FBD92D06-0450-490F-B26B-2A4B0FA343FB">
+			<brand>OSSA</brand>
+			<vehicle_type>29</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76090" _id="76090" _position="76090" _uuid="F2F69425-514C-4E3F-A7D0-C1F9BC11DE96">
+			<brand>BULTACO</brand>
+			<vehicle_type>47</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77166" _id="77166" _position="77166" _uuid="B5273A37-F55E-41CA-9CB9-1ED88BF49AEF">
+			<brand>GEHL</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105949" _id="105949" _position="105949" _uuid="FFC14C05-1A3D-4C62-BACA-3E2B90CDFF33">
+			<brand>PEUGEOT</brand>
+			<vehicle_type>2699</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105241" _id="105241" _position="105241" _uuid="FFE1A64E-E697-4B06-B636-DC1DDB0E7EF4">
+			<brand>KIA</brand>
+			<vehicle_type>471</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/103203" _id="103203" _position="103203" _uuid="FE86851A-2FAC-4ABC-98E2-A0CE7992CE46">
+			<brand>SSANGYONG</brand>
+			<vehicle_type>83</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106007" _id="106007" _position="106007" _uuid="FFF9B205-C008-4E79-A035-BDC98205D43E">
+			<brand>RENAULT</brand>
+			<vehicle_type>3028</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77116" _id="77116" _position="77116" _uuid="FF7FC8CF-BD03-4DD1-9E53-E6A5D0D0B1DA">
+			<brand>KAWASAKI</brand>
+			<vehicle_type>166</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76348" _id="76348" _position="76348" _uuid="4C5B609C-F771-48BC-8562-C7B181779E45">
+			<brand>MIROFRET</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105989" _id="105989" _position="105989" _uuid="FEBBA293-74F8-4984-BDA2-CBBBBBB9C1D5">
+			<brand>MAZDA</brand>
+			<vehicle_type>408</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/104576" _id="104576" _position="104576" _uuid="E39BC8EA-E105-4B4A-BB64-7BEC0F231112">
+			<brand>FERRARI</brand>
+			<vehicle_type>6</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106004" _id="106004" _position="106004" _uuid="EF24FB6E-A8B0-44C8-B779-D236C57D1CA5">
+			<brand>DAIMLER BENZ</brand>
+			<vehicle_type>24</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76393" _id="76393" _position="76393" _uuid="02E21C6C-3978-4CCD-BF9A-C9C246CBC0A2">
+			<brand>RIGUAL</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/77222" _id="77222" _position="77222" _uuid="5B7E2251-A59B-48F0-974F-2EE50A498D1C">
+			<brand>KOMATSU</brand>
+			<vehicle_type>2</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76528" _id="76528" _position="76528" _uuid="F38397FD-ED75-44D5-8715-5A51E5E3DD34">
+			<brand>SCHMITZ</brand>
+			<vehicle_type>19</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/87773" _id="87773" _position="87773" _uuid="FF2CB86A-368D-4EFC-8F8B-8143DBD83C56">
+			<brand>IVECO</brand>
+			<vehicle_type>201</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75276" _id="75276" _position="75276" _uuid="FA2387E0-2E17-4EA9-825F-810D5AC5ED69">
+			<brand>DAELIM</brand>
+			<vehicle_type>19</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105941" _id="105941" _position="105941" _uuid="FFFA3482-6251-40BF-8D06-5DEB7DD20F3F">
+			<brand>FIAT</brand>
+			<vehicle_type>816</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105266" _id="105266" _position="105266" _uuid="FF8A049B-0961-4BFA-B661-7B169E45D3F7">
+			<brand>HYUNDAI</brand>
+			<vehicle_type>588</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75419" _id="75419" _position="75419" _uuid="FAB733EA-467B-48D8-9270-FED4198F571B">
+			<brand>KEEWAY</brand>
+			<vehicle_type>38</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/71873" _id="71873" _position="71873" _uuid="B244CF71-D351-4B4F-A76C-397AD90ABF35">
+			<brand>ITALJET</brand>
+			<vehicle_type>3</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/75449" _id="75449" _position="75449" _uuid="FF6C2506-BC17-4BF4-82F0-20BF87F74C32">
+			<brand>APRILIA</brand>
+			<vehicle_type>103</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/76098" _id="76098" _position="76098" _uuid="D4415CD0-4A1F-4972-B004-45E097334027">
+			<brand>TRABOSA</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106008" _id="106008" _position="106008" _uuid="FFFCDF3F-82D8-4C78-925F-A2D75782EB3F">
+			<brand>FORD</brand>
+			<vehicle_type>2748</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105993" _id="105993" _position="105993" _uuid="FFB718DA-A1BC-44A4-98B3-6264A29037A6">
+			<brand>VOLVO</brand>
+			<vehicle_type>475</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/105945" _id="105945" _position="105945" _uuid="ABCA2746-CD66-4A33-AFC0-E151D1D4D574">
+			<brand>DAIHATSU</brand>
+			<vehicle_type>5</vehicle_type>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/meta-u83m/98717" _id="98717" _position="98717" _uuid="AAE381E5-DD0E-463C-8D65-35D60B1AFDAF">
+			<brand>OLDSMOBILE</brand>
+			<vehicle_type>1</vehicle_type>
+		</row>
+	</row>
+</response>

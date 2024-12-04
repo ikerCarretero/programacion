@@ -4,7 +4,7 @@ use empresa;
 
 -- Llista quants empleats tenim a la BD.
 select * from empleats;
-select count(8) as "Número d'empleats"
+select count(*) as "Número d'empleats"
 from empleats;
 
 -- Llista quants empleats cobren comisió 
@@ -38,7 +38,7 @@ select count(*) as "Número empleats",
         avg(sou) as "Mitjana de sous",
         max(sou)-min(sou) as "Diferència"
 from empleats;
-
+	
 -- Llista la suma de sous dels empleats del departament 10
 select sum(sou)
 from empleats

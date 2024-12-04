@@ -1,0 +1,356 @@
+<response>
+	<row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/226417" _id="226417" _position="226417" _uuid="EB26776C-B3EF-4E58-A830-71AA38402280">
+			<nationality>AUSTRALIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232589" _id="232589" _position="232589" _uuid="E57ED912-7F80-4ABE-AA17-DB7086055600">
+			<nationality>ESTATS UNITS AMERICA</nationality>
+			<number_people>12</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237181" _id="237181" _position="237181" _uuid="FF6CAF1F-187D-424B-806E-5B60F1BB9042">
+			<nationality>ARGENTINA</nationality>
+			<number_people>135</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231841" _id="231841" _position="231841" _uuid="DFFC2325-8931-4880-9239-43BA197BC4C2">
+			<nationality>GEORGIA</nationality>
+			<number_people>12</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232509" _id="232509" _position="232509" _uuid="FF52B788-8017-4811-AE4B-01F819F7E571">
+			<nationality>UCRAINA</nationality>
+			<number_people>136</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227115" _id="227115" _position="227115" _uuid="E6C71AEE-0290-48FF-884E-E3DDED3B9432">
+			<nationality>CAMERUN</nationality>
+			<number_people>7</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231958" _id="231958" _position="231958" _uuid="B34CEB11-3919-45CD-A269-05BC6E8502FD">
+			<nationality>SERBIA</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231827" _id="231827" _position="231827" _uuid="E8C8EE51-B2C8-40D1-92D0-522A84148CB6">
+			<nationality>ARMENIA</nationality>
+			<number_people>5</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238524" _id="238524" _position="238524" _uuid="F09E38FC-5FBC-4E88-BD7A-6DD95BA9E5B8">
+			<nationality>JAPO</nationality>
+			<number_people>6</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232074" _id="232074" _position="232074" _uuid="BAFA0876-2755-4F26-AEF9-2C4A57F0D1E1">
+			<nationality>KENIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238804" _id="238804" _position="238804" _uuid="FCF3F850-54C0-45D5-A99D-A9AEFF1E955E">
+			<nationality>ANDORRA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240599" _id="240599" _position="240599" _uuid="FE588B2F-041A-4E95-94E9-FCEFF54C7562">
+			<nationality>ALEMANYA</nationality>
+			<number_people>26</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238514" _id="238514" _position="238514" _uuid="F81D6CCA-9E4C-4564-888E-3B407364E0C5">
+			<nationality>INDIA</nationality>
+			<number_people>42</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232855" _id="232855" _position="232855" _uuid="E7647E80-A61E-40D0-8E5D-EC7A26A99659">
+			<nationality>BELGICA</nationality>
+			<number_people>6</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237998" _id="237998" _position="237998" _uuid="E942EE8C-E244-43A7-8F8C-F84A2BE7BA25">
+			<nationality>IRLANDA</nationality>
+			<number_people>8</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232462" _id="232462" _position="232462" _uuid="DC46DED8-4893-4FDE-95A5-A976CE30602B">
+			<nationality>MEXIC</nationality>
+			<number_people>14</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231842" _id="231842" _position="231842" _uuid="5A582F32-69EB-4DAC-A340-DA2A423E6D33">
+			<nationality>ESTONIA</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227041" _id="227041" _position="227041" _uuid="EF687D34-1C9E-439B-927F-F574F71D8FE3">
+			<nationality>MOLDAVIA</nationality>
+			<number_people>15</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232842" _id="232842" _position="232842" _uuid="F44292B5-DAF4-4AED-9F00-7143EACA9142">
+			<nationality>NICARAGUA</nationality>
+			<number_people>17</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227117" _id="227117" _position="227117" _uuid="3AB00DEA-11D0-47C9-B691-1FADAC92CBE7">
+			<nationality>CONGO</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232467" _id="232467" _position="232467" _uuid="E4C884F0-69FA-46B7-A4E0-8D4BF5911444">
+			<nationality>COSTA RICA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240515" _id="240515" _position="240515" _uuid="F2623645-3D03-4CDC-A78A-1ADC04CAB230">
+			<nationality>POLONIA</nationality>
+			<number_people>55</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238791" _id="238791" _position="238791" _uuid="FF6246B1-6D52-4D00-BCFC-F485D58EF193">
+			<nationality>PORTUGAL</nationality>
+			<number_people>43</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238555" _id="238555" _position="238555" _uuid="FC76A9FC-2807-4535-9EE2-F668689599BF">
+			<nationality>PAISOS BAIXOS</nationality>
+			<number_people>27</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238700" _id="238700" _position="238700" _uuid="FFA1DDAE-50B9-472F-A1E5-CAA0A6F3690D">
+			<nationality>PAKISTAN</nationality>
+			<number_people>127</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231882" _id="231882" _position="231882" _uuid="F3D3BA9A-759A-4742-92CA-9689FCFEC9F6">
+			<nationality>LETONIA</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240148" _id="240148" _position="240148" _uuid="FFA5D22E-3FA5-484D-919C-067560633C2C">
+			<nationality>MARROC</nationality>
+			<number_people>1931</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237898" _id="237898" _position="237898" _uuid="FFF9C28F-3E3F-45E7-85B3-8CA5C52228B9">
+			<nationality>REPUBLICA DOMINICANA</nationality>
+			<number_people>196</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238383" _id="238383" _position="238383" _uuid="F3E92332-68F8-4D9E-B6EE-3624A1670CCD">
+			<nationality>FILIPINES</nationality>
+			<number_people>5</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232076" _id="232076" _position="232076" _uuid="CB5E9AA1-2AA4-43CD-9D43-B216E863DC3B">
+			<nationality>INDONESIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231822" _id="231822" _position="231822" _uuid="F61F0556-9D56-457A-9710-DE8F1119F872">
+			<nationality>REPUBLICA TXECA</nationality>
+			<number_people>4</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238466" _id="238466" _position="238466" _uuid="FFF134E7-6CA1-4B70-822C-84CBC7C26F84">
+			<nationality>ITALIA</nationality>
+			<number_people>175</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/228012" _id="228012" _position="228012" _uuid="FFD9AE37-8B91-43CD-B78E-BF5706A01070">
+			<nationality>MALI</nationality>
+			<number_people>186</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240145" _id="240145" _position="240145" _uuid="FB6471EE-9B63-45FF-8914-A0FE32CB91DD">
+			<nationality>REGNE UNIT</nationality>
+			<number_people>65</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232491" _id="232491" _position="232491" _uuid="E0C593BD-194C-406F-9BC6-C6DE1EBB99FA">
+			<nationality>SUECIA</nationality>
+			<number_people>6</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238903" _id="238903" _position="238903" _uuid="B78DA822-83D8-4FCB-9EEB-EBEBF18516D6">
+			<nationality>TURQUIA</nationality>
+			<number_people>5</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231817" _id="231817" _position="231817" _uuid="E50D6658-0608-49CD-A8A4-F70694EF2BA8">
+			<nationality>COSTA D'IVORI</nationality>
+			<number_people>16</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227777" _id="227777" _position="227777" _uuid="D48AF70C-0528-431C-A401-5A0199565DF0">
+			<nationality>GUINEA BISSAU</nationality>
+			<number_people>18</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232824" _id="232824" _position="232824" _uuid="FE33ED25-E4E8-4648-9166-219B5A3C3126">
+			<nationality>HONDURES</nationality>
+			<number_people>104</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231881" _id="231881" _position="231881" _uuid="EBEE089B-68C5-403E-8609-4E4C8D058F18">
+			<nationality>GRECIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231883" _id="231883" _position="231883" _uuid="2AE10324-3D2B-4D09-9A0D-B0663D05DFA5">
+			<nationality>JAMAICA</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237635" _id="237635" _position="237635" _uuid="F42085EE-CDEA-42D7-9E00-65F1DED35998">
+			<nationality>URUGUAI</nationality>
+			<number_people>55</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240530" _id="240530" _position="240530" _uuid="FF6AB2BE-CFD5-49B3-93CD-897641E40386">
+			<nationality>ROMANIA</nationality>
+			<number_people>397</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232395" _id="232395" _position="232395" _uuid="8790315B-27CD-4A7F-AF32-98DD1F494D18">
+			<nationality>REP. DEMOCRATICA DEL CONGO</nationality>
+			<number_people>4</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/199965" _id="199965" _position="199965" _uuid="3100B434-5F76-4B0D-A6AE-ED1AC5B6CFFA">
+			<nationality>MONTENEGRO</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238755" _id="238755" _position="238755" _uuid="E8C7F6D6-A12A-450B-809F-D4545FFEB702">
+			<nationality>COREA DEL SUD</nationality>
+			<number_people>7</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240408" _id="240408" _position="240408" _uuid="FE0AFCE7-B0A3-47AC-9589-EF41D8A19AB2">
+			<nationality>SENEGAL</nationality>
+			<number_people>1112</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231791" _id="231791" _position="231791" _uuid="FCFAC46D-116C-4292-89F9-D045486B8D88">
+			<nationality>BULGARIA</nationality>
+			<number_people>35</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237764" _id="237764" _position="237764" _uuid="FC465F9F-4016-4C60-92AC-C1BEFAA519FA">
+			<nationality>MAURITANIA</nationality>
+			<number_people>67</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231880" _id="231880" _position="231880" _uuid="3B3E14D6-8ED1-47B4-8DA9-315CA509060E">
+			<nationality>TOGO</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238907" _id="238907" _position="238907" _uuid="D895D5B6-6D8A-4DC3-AB4F-17491FA6072F">
+			<nationality>VIETNAM</nationality>
+			<number_people>5</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/235152" _id="235152" _position="235152" _uuid="FEC29B8A-61A7-464D-96CC-F8A33E2610E4">
+			<nationality>BOLIVIA</nationality>
+			<number_people>670</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232825" _id="232825" _position="232825" _uuid="AFA5F6C5-3625-4019-A1E3-B15375C28226">
+			<nationality>AUSTRIA</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227077" _id="227077" _position="227077" _uuid="8DB2CADC-0C16-4167-A81B-9B2ECBD4610D">
+			<nationality>APATRIDAS</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232627" _id="232627" _position="232627" _uuid="FB88A8DF-F38F-4125-A3B2-DD7897D6FFAF">
+			<nationality>CUBA</nationality>
+			<number_people>56</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227749" _id="227749" _position="227749" _uuid="FF193F2E-DFAA-486E-A260-B4B9FF94FBB8">
+			<nationality>GUINEA</nationality>
+			<number_people>129</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238813" _id="238813" _position="238813" _uuid="A1E2D542-AA69-47D6-BE88-9928A7ED2BE8">
+			<nationality>SIRIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227800" _id="227800" _position="227800" _uuid="F1923BD7-B5A6-42C9-BFF9-AAEF98B0216A">
+			<nationality>GUINEA EQUATORIAL</nationality>
+			<number_people>13</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231956" _id="231956" _position="231956" _uuid="EACB630C-7529-4165-929F-74B32F87BBB7">
+			<nationality>EGIPTE</nationality>
+			<number_people>5</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232405" _id="232405" _position="232405" _uuid="80D58F01-55B3-4087-9F08-EA8CAC46B044">
+			<nationality>CANADA</nationality>
+			<number_people>4</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238534" _id="238534" _position="238534" _uuid="DC8F3B26-FC38-4109-998D-09DA1750C9D7">
+			<nationality>NEPAL</nationality>
+			<number_people>6</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238822" _id="238822" _position="238822" _uuid="9F2A9E32-F129-453D-9B60-CEED1ACC79B3">
+			<nationality>TAILANDIA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/230480" _id="230480" _position="230480" _uuid="EC6AC94A-4872-4DFC-BB7C-BCFB7D764493">
+			<nationality>NIGERIA</nationality>
+			<number_people>13</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227044" _id="227044" _position="227044" _uuid="CD12C977-8234-42A6-865A-3C8BCB45E5A2">
+			<nationality>BIELORUSSIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227107" _id="227107" _position="227107" _uuid="F8321572-F6F0-41CD-B6C3-93DF57610352">
+			<nationality>ALGERIA</nationality>
+			<number_people>44</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227578" _id="227578" _position="227578" _uuid="FFE6A67B-7CAE-42F4-B275-2FE3BF55B111">
+			<nationality>GAMBIA</nationality>
+			<number_people>330</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227050" _id="227050" _position="227050" _uuid="B63D0E68-0EA5-4CB1-9752-9F049768E800">
+			<nationality>REPUBLICA DE ESLOVAQUIA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237837" _id="237837" _position="237837" _uuid="FC2BBD86-610D-449B-B9B3-BE4BDD6FD626">
+			<nationality>FRANÇA</nationality>
+			<number_people>75</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231830" _id="231830" _position="231830" _uuid="D90EB6BC-D7C9-41CF-9966-60E96124F6CD">
+			<nationality>CROACIA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237153" _id="237153" _position="237153" _uuid="FF35E686-4054-4B50-95A5-7C53C3BA0A7D">
+			<nationality>PARAGUAI</nationality>
+			<number_people>118</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/235736" _id="235736" _position="235736" _uuid="FF616861-1CC0-40D6-B195-7C226B406583">
+			<nationality>COLOMBIA</nationality>
+			<number_people>182</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227594" _id="227594" _position="227594" _uuid="BED5BAFA-9FC4-4DAD-BE9F-50044A7408FF">
+			<nationality>GHANA</nationality>
+			<number_people>11</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237159" _id="237159" _position="237159" _uuid="AD107FE9-B4BD-410F-847A-8ECC66E8231E">
+			<nationality>FINLANDIA</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238526" _id="238526" _position="238526" _uuid="B9B39E44-0979-446B-9763-6E6D3155AD3A">
+			<nationality>NORUEGA</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231917" _id="231917" _position="231917" _uuid="99F7C66F-B4DE-48DE-9A84-5CE026A59CD5">
+			<nationality>BURKINA FASO</nationality>
+			<number_people>1</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/231729" _id="231729" _position="231729" _uuid="B316FAE9-1CAF-417E-BB68-0F80E52282DB">
+			<nationality>TUNEZ</nationality>
+			<number_people>2</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232694" _id="232694" _position="232694" _uuid="FF949237-A678-4D10-BA99-4F8FFC30AB36">
+			<nationality>EL SALVADOR</nationality>
+			<number_people>42</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/235864" _id="235864" _position="235864" _uuid="FB780162-1C6D-4532-A65A-C8E1F7DBF68A">
+			<nationality>XILE</nationality>
+			<number_people>52</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/227047" _id="227047" _position="227047" _uuid="82F568B0-01A3-4092-BAA7-8CB92EB779FD">
+			<nationality>LITUANIA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/235293" _id="235293" _position="235293" _uuid="FD3F6402-DAFE-4B50-B17E-AC8136BB153B">
+			<nationality>BRASIL</nationality>
+			<number_people>67</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/240597" _id="240597" _position="240597" _uuid="FF3F4257-B8B8-4BDE-AD01-83AD4BEC0367">
+			<nationality>XINA</nationality>
+			<number_people>433</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238525" _id="238525" _position="238525" _uuid="FB25203D-DCED-46D5-A40C-A36BFE9B2734">
+			<nationality>RUSSIA</nationality>
+			<number_people>59</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237726" _id="237726" _position="237726" _uuid="D3752FF8-FCC9-4052-8F52-E042A63E0E16">
+			<nationality>SUISSA</nationality>
+			<number_people>3</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/238435" _id="238435" _position="238435" _uuid="FC4733DB-CF1E-4AD4-955F-D0D907938500">
+			<nationality>EQUADOR</nationality>
+			<number_people>256</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237989" _id="237989" _position="237989" _uuid="E724CD10-A177-4D37-A4BA-16112A3F02FC">
+			<nationality>HUNGRIA</nationality>
+			<number_people>6</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237977" _id="237977" _position="237977" _uuid="FE6BF91E-A6C9-484E-8F4C-E49122BE5298">
+			<nationality>VENEÇUELA</nationality>
+			<number_people>53</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/237445" _id="237445" _position="237445" _uuid="FFB43C2A-C541-4CB1-9D8C-A5B5327D4247">
+			<nationality>PERU</nationality>
+			<number_people>100</number_people>
+		</row>
+		<row _address="https://opendata.granollers.cat/resource/s67e-aep2/232703" _id="232703" _position="232703" _uuid="577C54D3-DE4A-4377-ABEB-67EA59FE657C">
+			<nationality>GUATEMALA</nationality>
+			<number_people>2</number_people>
+		</row>
+	</row>
+</response>

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prova",
+            "request": "launch",
+            "mainClass": "prova",
+            "projectName": "programacion_a7b3b7b9"
+        },
+        {
+            "type": "java",
+            "name": "Apunts",
+            "request": "launch",
+            "mainClass": "Apunts",
+            "projectName": "programacion_a7b3b7b9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

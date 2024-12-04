@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/granollers_marca_vehicles_2017.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE response SYSTEM "granollers_marca_vehicles_2017.dtd">
+
+    <response>
+    ...
+    </response>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT response (row)>
+<!ELEMENT rows (row+)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT row (brand,vehicle_type)*>
+<!ATTLIST row
+    _address CDATA #IMPLIED
+    _id CDATA #IMPLIED
+    _position CDATA #IMPLIED
+    _uuid CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT vehicle_type (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT brand (#PCDATA)>
