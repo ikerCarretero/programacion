@@ -1,0 +1,5 @@
+XML ben format
+https://www.w3schools.com/xml/xml_validator.asp
+
+XML vàlid
+https://www.online-toolz.com/tools/xml-validator.php

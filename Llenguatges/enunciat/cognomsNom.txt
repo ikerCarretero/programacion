@@ -1,0 +1,14 @@
+contact-info01.xml	Vàlid
+contact-info02.xml	No vàlid
+contact-info03.xml	NBF
+contact-info04.xml	Vàlid
+contact-info05.xml	No vàlid
+
+INSTRUCCIONS
+1) Canvieu el nom d'aquest fitxer de manera que tingui el vostre cognom i el vostre nom (en lloc de cognomNom).
+2) Seguint l'exemple (però canviant els valors, si cal), per a cada fitxer poseu al costat No vàlid o Vàlid o NBF
+3) Per saber si és vàlid o no vàlid haureu d'usar el fitxer 01contact-info.dtd
+
+
+
+

@@ -3,7 +3,7 @@
 <!--
     TODO define vocabulary identification
     PUBLIC ID: -//vendor//vocabulary//EN
-    SYSTEM ID: http://server/path/granollers_marca_vehicles_2017.dtd
+    SYSTEM ID: http://server/path/granollers_poblacio_no_espanyola_2017.dtd
 
 -->
 
@@ -12,7 +12,7 @@
 
     <?xml version="1.0"?>
 
-    <!DOCTYPE response SYSTEM "granollers_marca_vehicles_2017.dtd">
+    <!DOCTYPE response SYSTEM "granollers_poblacio_no_espanyola_2017.dtd">
 
     <response>
     ...
@@ -20,11 +20,10 @@
 -->
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT response (row*)>
-<!ELEMENT rows (row+)>
+<!ELEMENT response (row)*>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT row (brand,vehicle_type, row*)>
+<!ELEMENT row (row,nationality,number_people)>
 <!ATTLIST row
     _address CDATA #IMPLIED
     _id CDATA #IMPLIED
@@ -33,7 +32,7 @@
   >
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT vehicle_type (#PCDATA)>
+<!ELEMENT nationality (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT brand (#PCDATA)>
+<!ELEMENT number_people (#PCDATA)>

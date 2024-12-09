@@ -26,7 +26,7 @@ public class Ex01 {
         System.out.println("De quin Pokemon vols la probabilitat de captura? ");
         pokemon = sc.nextLine().toLowerCase();
         
-        int primerCaracter = (pokemon.charAt(0)-'a')*2;
+        int primerCaracter = (pokemon.charAt(0)-'a' +1)*2;
         int mitjana = 0;
 
         for (int i = 1; i < pokemon.length(); i++) {

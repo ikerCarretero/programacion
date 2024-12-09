@@ -1,7 +1,8 @@
+<!DOCTYPE response SYSTEM "granollers_marca_vehicles_2017.dtd">
 <response>
-	<row>
 		<row _address="https://opendata.granollers.cat/resource/meta-u83m/106001" _id="106001" _position="106001" _uuid="FFED6194-5AA5-4E70-93B5-7EF5847A3304">
-			<vehicle_type>1995</vehicle_type>
+                        <brand>Toyota</brand>
+                        <vehicle_type>1995</vehicle_type>
 		</row>
 		<row _address="https://opendata.granollers.cat/resource/meta-u83m/93616" _id="93616" _position="93616" _uuid="E9FB6A71-2BEE-4157-9846-D9829115C3C2">
 			<brand>ISUZU</brand>
@@ -499,5 +500,4 @@
 			<brand>OLDSMOBILE</brand>
 			<vehicle_type>1</vehicle_type>
 		</row>
-	</row>
 </response>
