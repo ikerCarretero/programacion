@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Programacion/Prova/src",
         "Programacion"
-    ]
+    ],
+    "java.project.referencedLibraries": []
 }
