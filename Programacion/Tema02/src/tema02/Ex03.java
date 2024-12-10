@@ -4,6 +4,7 @@
  */
 package tema02;
 
+import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -17,6 +18,7 @@ public class Ex03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Random rd = new Random();
         Scanner sc = new Scanner(System.in);
         int n, total = 0;
                 
@@ -25,9 +27,8 @@ public class Ex03 {
         
         int[] num = new int[n];
         
-        System.out.println("Omple l'array: ");
         for (int i = 0; i < n; i++) {
-            num[i] = sc.nextInt();
+            num[i] = rd.nextInt();
         }
         omple(num, n, total);
         
