@@ -1,3 +1,4 @@
+
 -- Activitats de consultes agrupades.
 -- Emprant la BD ‘ucm’, escriu les consultes:
 use ucm;
@@ -32,12 +33,18 @@ select d.nom, count(*) from directors d
 inner join pelicules p on d.codi = p.id_director
 group by d.nom;
 
-select * from pelicules;
+select d.nom, count(*) 
+from directors d
+inner join pelicules p on d.codi = p.id_director
+group by d.nom
+order by count(*) desc, d.nom asc;
 show tables;
 
 
 -- 6. Llista agrupant pel títol de les pel·lícules i quantes visualitzacions ha 
 -- tingut. Ordena el resultat de forma descendent pel nombre de visualitzacions.
+select *
+from pelicules p;
 select p.titol, count(v.visualitzacions) from pelicules p
 inner join visualitzacions v on p.codi = v.id_peli
 group by p.titol;
