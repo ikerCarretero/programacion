@@ -32,20 +32,20 @@ class Library {
         bookList = new ArrayList<>();
     }
 
-    public void addBook(Book b) {
-        bookList.add(b);
+    public void addBook(Book book) {
+        bookList.add(book);
     }
 
     public void printBooks() {
-        for (Book b : bookList) {
-            System.out.println("Títol: " + b.getTitle() + ", Autor: " + b.getAuthor() + ", ISBN: " + b.getIsbn());
+        for (Book book : bookList) {
+            System.out.println("Títol: " + book.getTitle() + ", Autor: " + book.getAuthor() + ", ISBN: " + book.getIsbn());
         }
     }
 
-    public Book findBookByIsbn(String isbnCode) {
-        for (Book b : bookList) {
-            if (b.getIsbn().equals(isbnCode)) {
-                return b;
+    public Book findBookByIsbn(String isbn) {
+        for (Book book : bookList) {
+            if (book.getIsbn().equals(isbn)) {
+                return book;
             }
         }
         return null;
@@ -61,9 +61,9 @@ public class LibraryManagementSystem {
         System.out.println("Llibres a la biblioteca:");
         library.printBooks();
 
-        Book foundBook = library.findBookByIsbn("123456");
-        if (foundBook != null) {
-            System.out.println("Llibre trobat: " + foundBook.getTitle());
+        Book searchedBook = library.findBookByIsbn("123456");
+        if (searchedBook != null) {
+            System.out.println("Llibre trobat: " + searchedBook.getTitle());
         } else {
             System.out.println("Llibre no trobat.");
         }
