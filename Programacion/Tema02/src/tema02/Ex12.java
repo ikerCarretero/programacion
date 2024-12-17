@@ -10,31 +10,40 @@ import java.util.Scanner;
  *
  * @author iker-carretero
  */
-public class Ex07 {
+public class Ex12 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner (System.in);
         
-        int a, n, total = 0;
+        int n;
         
-        System.out.println("Introdueix la a i la n: ");
-        a = sc.nextInt();
+        System.out.println("Quants numero vols ficar? ");
         n = sc.nextInt();
         
-        System.out.println(mostrar(a, n, total));
+        int[] num = new int[n];
+
+
+        System.out.println("Introdueix un numero");
+        for (int i = 0; i < num.length; i++) {
+            num[i] = sc.nextInt();
+        }
+       
+        mostrar(num);
+        
     }
     
-    public static int mostrar(int a, int n, int total) {
-        total = a;
-        for (int i = 1; i < n; i++) {
-            a *= total;
+    public static void mostrar(int num[]) {
+
+
+        for (int i = num.length -1 ; i >= 0; i--) {
+            System.out.print(num[i]+" ");
         }
         
-        return a;
+        
     }
     
 }

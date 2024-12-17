@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author iker-carretero
  */
-public class Ex07 {
+public class Ex08 {
 
     /**
      * @param args the command line arguments
@@ -19,22 +19,21 @@ public class Ex07 {
         // TODO code application logic here
         Scanner sc = new Scanner(System.in);
         
-        int a, n, total = 0;
+        int total = 0;
         
-        System.out.println("Introdueix la a i la n: ");
-        a = sc.nextInt();
-        n = sc.nextInt();
+        System.out.println("Introdueix un numero: ");
+        int num1 = sc.nextInt();
         
-        System.out.println(mostrar(a, n, total));
+        System.out.println(mostrar(num1, total));
     }
     
-    public static int mostrar(int a, int n, int total) {
-        total = a;
-        for (int i = 1; i < n; i++) {
-            a *= total;
+    public static int mostrar(int num1, int total) {
+        for (int i = 1; i < num1; i++) {
+            if(i % 2 != 0){
+                total += i;
+            }
         }
-        
-        return a;
+        return total;
     }
     
 }
