@@ -1,0 +1,152 @@
+
+
+
+
+
+
+https://youtu.be/VdGzPZ31ts8
+Tutorial de Git [1h06' (castellà)]
+#pas 0: comprovació de que GIt està instal·lat
+git --version
+
+#ALERTA: abans del pas 1 cal que la carpeta sigui un "git directory"
+git init
+
+#pas 1
+git config user.name "Josep Maria"
+git config user.email jvalera.2007@gmail.com
+#no usar --global
+
+#pas 3: editor "per defecte" (i comprovació)
+#Jo vaig provar amb Kate (però no funciona: canviat a gedit)
+git config core.editor "gedit --wait"
+git config -e
+#no usar --global
+
+#pas 4: control de CR/LF (des de linux)
+git config core.autocrlf input
+#no usar --global
+
+#pas 5: crear directori 
+mkdir lamevaweb
+cd lamevaweb
+git init
+
+
+#pas 6: crear un document TXT (jo ho faig amb Kate)
+kate document1.txt
+#posem un text a l'editor (i guardem el document Ctrl+S):
+El terme projecte es pot utilitzar per fer referència tant a unes tasques que hom pensa realitzar com al pla, l’estudi detallat o el conjunt de documents explicatius sobre com dur a terme aquelles tasques. 
+
+#pas 7 (gestionar document1.txt)
+git status
+git add document1.txt
+git status
+
+
+#pas 8: crear un document TXT (jo ho faig amb Kate)
+kate document2.txt
+#posem un text a l'editor (i guardem el document Ctrl+S):
+Un projecte és un procés únic que s’emprèn per aconseguir un objectiu.
+
+#pas 9 (gestionar document2.txt)
+git status
+git add document2.txt
+git status
+#modificació a document2.txt (afegim més text)
+Un projecte és un procés únic, per la qual cosa les activitats (coordinades i controlades) que caldrà dur a terme per assolir el seu objectiu s’hauran de dissenyar de forma específica per a aquesta finalitat. 
+#més gestions...
+git status
+git add document2.txt
+git status
+
+#pas 10 (commit)
+git commit -m "Commit inicial a lamevaweb"
+git status
+
+#pas 11 (més canvis a document2.txt: eliminar primer paràgraf)
+git status
+git add document2.txt
+git status
+
+#pas 10 (commit amb editor; gedit)
+git commit 
+#s'obre el gedit i escrivim "Canvis a document2.txt (eliminat el primer paràgraf)" a la primera línia; CTR+S i tanquels la pestanya
+#alguna cosa no va bé (diu que la línia està ne blanc: efectivant es guarda amb la línia en blanc)
+#solució (per continuar): fer el commit "normal"
+git commit -m "Canvis a document2.txt (eliminat el primer paràgraf)"
+git status
+
+#pas 11: eliminar el document2.txt
+rm document2.txt
+git status
+git add document2.txt
+git status
+git commit -m "document2.txt eliminat"
+
+#pas 12: eliminació ràpida del document1.txt i recuperació
+git rm document1.txt
+git status
+git restore --staged document1.txt
+git restore document1.txt
+#no funciona ja que la meva versió de GIt és anterior a la 2.23
+#alternativa (fa la feina "total" dels dos "restore" anteriors):
+git log --oneline
+git reset --hard ecfc94a
+#el hash ecfc94a és el primer que es veu com a resultat de la comanda anterior
+
+#pas 13: (canvi de nom del fitxer) en ho saltem; suposo que funcionarà (git mv sí l'he comprovat)
+git mv document1.txt  document.txt 
+git commit -m "document1.txt reanomenat"
+
+#pas 15: (ignorar arxius)
+#crear fitxer .env [o el nom que sigui] (des de Kate) amb text (per exemple, "prova")
+#Ctrl+S (no es veu amb ls però sí amb ls -la)
+#crear fitxer .gitignore [important que sigui aquest nom] (des de Kate) amb el text corresponent:
+# .env
+#Ctrl+S (no es veu amb ls però sí amb ls -la)
+git status
+git add .gitignore 
+git status
+git commit -m ".gitignore afegit"
+git status
+
+#pas 16: alternativa (menys xerraire) a git status
+#fa diferents canvis (jo només crearé un document3.txt amb text "prova de text"; Ctrl+S)
+git status
+git status -s
+git add document3.txt
+git commit -m "document3.txt afegit"
+
+#pas 17: comprovar diferències
+#fer canvis a document3.txt (prova cm a primera línia i "prova prova" com a tercera; CTR+S)
+git status
+git diff
+# (no cal, ni es pot, usar la tecla Q per sortir)
+git add document3.txt
+git diff
+#no hi ha canvis (ja s'ha fet el git add)
+git diff --staged
+
+#pas 18:
+git log
+# no surt al vídeo per ser massa xerraire
+# (usar la tecla Q per sortir)
+git log --oneline
+
+# ******************** aturar-se aquí (de moment) *********************
+# saltar la part de les branques
+#anar a "Conectando con github"
+# PENDENT **
+
+
+
+
+
+
+
+
+
+
+https://formawiki.diba.cat/pub/direccio_de_serveis/ec30854f_gestio_de_projectes/print.html
+(per agafar els textos pels exemples)

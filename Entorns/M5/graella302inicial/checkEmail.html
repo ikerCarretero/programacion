@@ -1,0 +1,24 @@
+<html>
+<head>
+	<script language="JavaScript">
+		function validateEmail(emailField, errorField){
+			matchResult = emailField.value.match('([a-z]|[0-9])+@([a-z]|[0-9])+\.com');
+			if (matchResult != null){
+				errorField.innerHTML = "";
+			} else {
+				errorField.innerHTML = "email address is not in valid format";
+			}
+		}
+	</script>
+</head>
+<body>
+	<form>
+		<span id="emailError" style="color:red"></span>
+		<br/> <!-- span i br canviats de llo; cometes dobles unificades -->
+		<input id="email" name="email" 
+		onChange="validateEmail(this, document.getElementById('emailError'));"/>
+
+		<input type="submit" value="submit">
+	</form>
+<body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <primers desc="Descripció dels primers plats">
+    <plat >
+       <nom>Amanida de formatge de cabra</nom> 
+       <preu>10</preu>
+        <alergies>
+          <alergia>Gluten</alergia> 
+          <alergia>Llet</alergia>
+        </alergies>
+    </plat>  
+  </primers>
+  <segons >
+    <plat>
+       <nom>Pollastre a la brasa</nom> 
+       <acompanyament>Patates o amanida</acompanyament>
+       <preu>10</preu>
+        <alergies>
+          <alergia>Gluten</alergia> 
+          <alergia>Llet</alergia>
+        </alergies>
+    </plat>  
+  </segons>
+  <postres desc="Descripció dels postres del menú i submenú">
+    <plat>
+      <nom>Flam</nom>
+      <preu>4</preu>
+      <alergies>
+         <alergia>ou</alergia> 
+         <alergia>llet</alergia>
+      </alergies>
+      <complement nom="nata"></complement>
+    </plat>  
+  </postres>
+</menu>

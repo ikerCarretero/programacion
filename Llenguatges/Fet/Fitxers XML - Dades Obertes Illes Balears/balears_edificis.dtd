@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/balears_edificis.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE edificis SYSTEM "balears_edificis.dtd">
+
+    <edificis>
+    ...
+    </edificis>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT edificis (edifici)+>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT edifici (nom, direccio, cpostal?, poblacio?, telefon?, fax?, email?, fotop?, fotog?, latitud, longitud, codi_uniadm)>
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT nom (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT direccio (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT cpostal (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT poblacio (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT telefon (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT fax (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT latitud (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT longitud (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT codi_uniadm (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT fotop (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT fotog (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT email (#PCDATA)>

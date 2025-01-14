@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/balears_organigrama.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE organigrama SYSTEM "balears_organigrama.dtd">
+
+    <organigrama>
+    ...
+    </organigrama>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT organigrama (idioma_unitat)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT idioma_unitat (unidad_administrativa)*>
+<!ATTLIST idioma_unitat
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT unidad_administrativa (codigo_padre|codigo|web|logo_saluda_vertical|nombre|orden|logo|descripcion|fotog|responsable|cargo_responsable|logo_saluda|tratamiento_responsable|codigo_tratamiento|logo_vertical|idioma|telefono|fotop|fax|email)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT codigo (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT codigo_padre (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT nombre (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT orden (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT responsable (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT cargo_responsable (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tratamiento_responsable (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT codigo_tratamiento (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT telefono (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT fax (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT email (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT web (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT idioma (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT logo (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT logo_vertical (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT logo_saluda (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT logo_saluda_vertical (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT fotop (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT fotog (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT descripcion (#PCDATA)>

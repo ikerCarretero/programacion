@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist name="top100" temps="3:40:12" tracks="500">
+    <information>
+        <name>Llista de reproduccio</name>
+        <updated>2015-09-07</updated>
+    </information>
+    <track>
+        <name>Canço1</name>  
+        <artist>Artista1</artist>
+        <rating>1.6</rating>
+        <playCount>1</playCount>
+        <album>Album1</album>
+        <genre>Rock</genre>
+    </track>
+    <track>
+        <name>Canço1</name>  
+        <artist>Artista1</artist>
+        <playCount>1</playCount>
+        <album>Album1</album>
+    </track>
+    <album>
+        <title>asdasd</title>
+        <group>dasd</group>
+        <year>1935</year>
+        <start>track23#1221</start>
+        <tracks>
+            <track>
+                <name>Canço1</name>  
+                <artist>Artista1</artist>
+                <playCount>1</playCount>
+                <album>Album1</album>
+            </track>
+        </tracks>
+    </album>
+</playlist>

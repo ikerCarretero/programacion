@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>QUnit</title> <!-- canviar pel títol que calgui per a la pàgina de tests -->
+    <!-- Load the QUnit CSS file from CDN - Require to display our tests attractively -->
+    <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.23.0.css">
+    <!-- Pure CSS is a minimalist CSS file we have included to make things look nicer -->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  </head>
+  <body style='margin: 0 1em;'>
+    <div id='main'>
+      <h1>Application/Unit <em>Title/Name</em></h1>
+      <h2>You can write a (<em>brief</em>) description of the funtionality of the Application/Unit.</h2>
+    </div>
+
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+    <!-- Load the QUnit Testing Framework from CDN - this is the important bit ... -->
+    <script src="https://code.jquery.com/qunit/qunit-2.23.0.js"></script>
+    <script src="your_app.js"></script> <!-- canviar pel nom del document que contingui la unitat a provar-->
+    <script src="your_tests.js"></script> <!-- canviar pel nom del document que contingui les proves-->
+  </body>
+</html>

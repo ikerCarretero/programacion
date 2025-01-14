@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/balears_alertesFarmaceutiques2010.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE alertesFarmaceutiques SYSTEM "balears_alertesFarmaceutiques2010.dtd">
+
+    <alertesFarmaceutiques>
+    ...
+    </alertesFarmaceutiques>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT alertesFarmaceutiques (alerta)+>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT alerta (referencia,dataNotificacio,origen,suborigen,grupAlerta,tipusAlerta,classe,assumpte,descripcio,mesures,productesAfectats)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT referencia (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dataNotificacio (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT origen (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT suborigen (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT grupAlerta (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tipusAlerta (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT classe (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT assumpte (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT descripcio (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT mesures (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT productesAfectats (producteAfectat)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT producteAfectat (nom,marcaComercial,presentacio,cn,dciodoe,lotsAfectats)?>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT nom (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT marcaComercial (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT presentacio (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT cn (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dciodoe (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT lotsAfectats (lotAfectat)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT lotAfectat (numeroLot,dataCaducitat)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT numeroLot (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dataCaducitat (#PCDATA)>
