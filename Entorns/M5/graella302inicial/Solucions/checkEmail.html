@@ -1,14 +1,15 @@
 <html>
 <head>
+	<script src="comprovaCorreu.js"></script>
 	<script language="JavaScript">
 		function validateEmail(emailField, errorField){
-			matchResult = isValidEmail;
-			if (matchResult != null){
+			
+			if (isValidEmail(emailField.value)){
 				errorField.innerHTML = "";
 			} else {
 				errorField.innerHTML = "email address is not in valid format";
 			}
-		}
+		}	
 	</script>
 </head>
 <body>

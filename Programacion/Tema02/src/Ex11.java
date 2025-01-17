@@ -21,7 +21,7 @@ public class Ex11 {
         
         int numAlumn;
         alumnes alumnesDaw = new alumnes();
-
+        
         
     
 
